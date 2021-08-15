@@ -1,1 +1,1 @@
-# dyzbotapi
+# dyzphoria_bot api
